@@ -19,6 +19,8 @@ df["Calories"].fillna(130, inplace=True)
 # find mean of column of Caleries
 x=df["Calories"].mean()
 
+# Convert into a correct format
+
 
 
 
